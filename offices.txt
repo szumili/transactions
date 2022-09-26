@@ -1,0 +1,18 @@
+1,New Melanie,001-141-777-6317x06690,3915 Andrew Run Apt. 636,United States,95639
+2,New Amy,(979)190-7483x378,2328 Figueroa Skyway Apt. 290,United States,39988
+3,Judyhaven,7302157368,303 Ramirez Ways,United States,51545
+4,Bailly,+33 (0)4 93 67 21 10,440, boulevard de Alves,France,21430
+5,Faure-sur-Vallée,0146029755,avenue Suzanne Philippe,France,88139
+6,Lemaître,01 83 30 12 38,80, avenue Amélie Costa,France,61730
+7,Ostrołęka,606 018 159,plac Poziomkowa 16,Poland,13-186
+8,Malbork,+48 725 422 058,pl. Wąska 890,Poland,27-622
+9,Jarosław,+48 22 877 89 32,pl. Cedrowa 17,Poland,21-809
+10,Main-Höchst,09037 742087,Jakob-Weiß-Ring 629,Germany,66447
+11,Groß-Gerau,(08526) 05747,Gesche-Schomber-Platz 5/2,Germany,30931
+12,Schwabmünchen,(08344) 41747,Zänkergasse 3,Germany,54582
+13,Kellyburgh,+61-432-322-183,Apt. 629 421 Mckenzie Vale,Australia,2602
+14,North Adrienne,2300-2531,5/64 Perez Dip,Australia,2965
+15,Romanstad,(03)-8410-3664,28/232 Mark Colonnade,Australia,0914
+16,Lugo,+34744 637 064,Plaza Manu Matas 52,Spain,02453
+17,Baleares,+34707 53 37 72,Pasaje de Susana Lamas 24 Piso 8 ,Spain,45225
+18,Córdoba,+34711 59 20 66,Vial Melchor Sánchez 476,Spain,14095
